@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://eso:esraa123@@cluster0-yuopp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "26a78340db8c534d0420",
+  "githubSecret": "897638852864abc0b5e6b0764a2253d9b7f66f02"
+}
